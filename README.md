@@ -1,1 +1,2 @@
-# huffmantree
+# Huffmantree
+implemented with minimum priority queue
