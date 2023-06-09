@@ -1,2 +1,2 @@
 # Huffmantree
-implemented with minimum priority queue
+Huffmantree code generator implemented with minimum priority queue. 
